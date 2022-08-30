@@ -187,4 +187,12 @@ Available subcommands are:
     - delete branch feature/contact da origin
 - git branch -d feature/contact
 
-## criando template para PRs
+## Criando template para PRs
+[https://github.com/embeddedartistry/templates](https://github.com/embeddedartistry/templates)
+
+## Protegendo branch para code review
+
+## Codeowners
+
+## Extensão do Github para o VSCode
+- Github Pull Requests and Issues
