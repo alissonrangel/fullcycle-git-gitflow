@@ -169,3 +169,9 @@ Available subcommands are:
 # PRs e Code Review
 
 ## Protegendo branchs
+
+- git checkout -b develop
+- git push origin develop
+
+## Criando nossa primeira PR
+
