@@ -14,7 +14,7 @@ SemVer
  - develop, tudo que for fazendo vai no develop
  - feature, novas features nessa branch, qnd terminar joga no develop
  - release, qnd tiver terminando uma sprint, coloco do develop para o release, mergeio na main, gero uma tag e jogo no main
- - hotfix, encontrei um erro na produção, crio um branch de hotfix, corrigi, dou um merge no main e no develop 
+ - hotfix, encontrei um erro na produção, crio um branch de hotfix com a nova tag, corrigi, dou um merge no main e no develop 
  - cuidado, pois em alguns momentos vai tá commitando direto na main, qnd pullrequest
  
 ## Mão na massa
