@@ -175,3 +175,16 @@ Available subcommands are:
 
 ## Criando nossa primeira PR
 
+- git checkout -b develop
+- git push origin develop
+  - git checkout -b feature/contact
+    - Add files
+    - git add, git commit  
+  - git push origin feature/contact  
+  - alterações no github
+    - comments
+    - merge com develop
+    - delete branch feature/contact da origin
+- git branch -d feature/contact
+
+## criando template para PRs
